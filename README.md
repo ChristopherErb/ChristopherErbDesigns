@@ -1,5 +1,9 @@
 # ChristopherErbDesigns
 Project to keep track of business Employees, Hours, and Materials.  
 
-https://dbdiagram.io/d/606323efecb54e10c33df447 DB Diagram
-https://trello.com/b/eAtSJTnE/christophererbdevelopment Trello board (Rough still, I'm not great with planning)
+
+
+
+[DB Diagram](https://dbdiagram.io/d/606323efecb54e10c33df447) 
+[Trello board](https://trello.com/b/eAtSJTnE/christophererbdevelopment) Rough still, I'm not great with planning. I'll be updating as I add/change things 
+[Wireframes](https://imgur.com/a/Jxvr49i) these will change as I flesh out how my stuff will look.  I'm still not entirely sure yet. 
